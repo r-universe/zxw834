@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "BayesianPlatformDesignTimeTrend"]
 	path = BayesianPlatformDesignTimeTrend
-	url = https://github.com/zxw834/platformdesigntime
+	url = https://github.com/zxw834/bayesianplatformdesigntimetrend
